@@ -1,0 +1,38 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\ДЗ\Source.cpp(77,25): error C2352: "Phonebook::~Phonebook": для вызова нестатической функции-члена требуется объект
+  C:\Users\User\source\repos\ДЗ\Source.cpp(26,6):
+   см. объявление "Phonebook::~Phonebook"
+  
+C:\Users\User\source\repos\ДЗ\Source.cpp(80,17): error C2059: синтаксическая ошибка: if
+C:\Users\User\source\repos\ДЗ\Source.cpp(81,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\User\source\repos\ДЗ\Source.cpp(82,28): error C2065: name: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(82,21): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\User\source\repos\ДЗ\Source.cpp(85,21): error C2065: work_num: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(87,28): error C2065: work_num: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(87,21): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\User\source\repos\ДЗ\Source.cpp(89,21): error C2065: home_num: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(91,28): error C2065: home_num: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(91,21): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\User\source\repos\ДЗ\Source.cpp(93,21): error C2065: mobile_num: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(95,28): error C2065: mobile_num: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(95,21): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\User\source\repos\ДЗ\Source.cpp(97,21): error C2065: info: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(99,28): error C2065: info: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(99,21): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\User\source\repos\ДЗ\Source.cpp(104,9): error C2046: недопустимый вариант выбора
+C:\Users\User\source\repos\ДЗ\Source.cpp(107,9): error C2046: недопустимый вариант выбора
+C:\Users\User\source\repos\ДЗ\Source.cpp(113,9): error C2046: недопустимый вариант выбора
+C:\Users\User\source\repos\ДЗ\Source.cpp(115,9): error C2046: недопустимый вариант выбора
+C:\Users\User\source\repos\ДЗ\Source.cpp(117,9): error C2046: недопустимый вариант выбора
+C:\Users\User\source\repos\ДЗ\Source.cpp(120,9): error C2047: недопустимый вариант, используемый по умолчанию
+C:\Users\User\source\repos\ДЗ\Source.cpp(124,9): error C2059: синтаксическая ошибка: for
+C:\Users\User\source\repos\ДЗ\Source.cpp(124,25): error C2065: i: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(124,42): error C2065: i: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(124,45): error C2059: синтаксическая ошибка: )
+C:\Users\User\source\repos\ДЗ\Source.cpp(126,29): error C2065: i: необъявленный идентификатор
+C:\Users\User\source\repos\ДЗ\Source.cpp(126,31): error C2059: синтаксическая ошибка: ;
+C:\Users\User\source\repos\ДЗ\Source.cpp(128,5): error C2059: синтаксическая ошибка: }
+C:\Users\User\source\repos\ДЗ\Source.cpp(128,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\source\repos\ДЗ\Source.cpp(131,5): error C2059: синтаксическая ошибка: return
+C:\Users\User\source\repos\ДЗ\Source.cpp(132,1): error C2059: синтаксическая ошибка: }
+C:\Users\User\source\repos\ДЗ\Source.cpp(132,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
